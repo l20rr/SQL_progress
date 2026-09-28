@@ -9,4 +9,4 @@ FROM transacao_produto
 WHERE IdProduto = 15
 
 
--- Nesse exercico ainda nao usei subqueries, mas poderia ser feito.
+-- Nesse exercico ainda nao usei subqueries ou join, mas poderia ser feito.
