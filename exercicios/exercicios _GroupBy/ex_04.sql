@@ -2,7 +2,7 @@
 
 SELECT COUNT(*)
 FROM produtos
-WHERE DescCategoriaProduto = 'rpg'
+WHERE DescCategoriaProduto = 'rpg';
 
 
 SELECT DescCategoriaProduto, 
